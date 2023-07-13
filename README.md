@@ -5,6 +5,7 @@ Data was obtained from https://www.kaggle.com/datasets/geomack/spotifyclassifica
 - Conducted data cleansing such as detecting outliers and filling null values
   
   e.g, plotting outliers by boxplot
+  
   ![regression-song-popularity-prediction1](https://github.com/youngmin-jin/regression-song-popularity-prediction/assets/135728064/07026174-8b1a-4b40-ab81-f527976eb481)
   
 - Conducted hyperparameter tuning and grid search in random forest and XGBoost models
