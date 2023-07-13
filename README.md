@@ -9,7 +9,7 @@ Data was obtained from https://www.kaggle.com/datasets/geomack/spotifyclassifica
 - Conducted hyperparameter tuning and grid search in random forest and XGBoost models
   e.g., grid search and hyperparameter tuning in random forest regression model
   
-![regression-song-popularity-prediction3](https://github.com/youngmin-jin/regression-song-popularity-prediction/assets/135728064/37bda520-2daa-4eb8-9f9e-e7bfc26761e5)
+  ![regression-song-popularity-prediction3](https://github.com/youngmin-jin/regression-song-popularity-prediction/assets/135728064/37bda520-2daa-4eb8-9f9e-e7bfc26761e5)
 
 - Evaluated the performances by r2 score and rmse
   e.g., comparing the actual values and predicted values/ checking r2 score and rmse
