@@ -3,6 +3,7 @@ Data was obtained from https://www.kaggle.com/datasets/geomack/spotifyclassifica
 
 - Created regression models by using linear regression, random forest, and XGBoost approaches to predict song popularities in Python
 - Conducted data cleansing such as detecting outliers and filling null values
+- Used pandas, numpy, matplotlib, sklearn
   
   e.g, plotting outliers by boxplot
   
